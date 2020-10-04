@@ -1,0 +1,62 @@
+header{
+background:#271F27;
+padding:20px;
+}
+
+nav{
+background:#CEDDCE;
+width:7%;
+padding:5px;
+text-align:center;
+}
+
+h1{
+font-family:"lucida console";
+font-variant: small-caps;
+text-align:left;
+color:white;
+font-size:400%;
+}
+
+p{
+font-size: 115%;
+text-align: justify;
+}
+
+div{
+display=inline-block;
+width:31%;text-align:center;
+margin:5px;
+border: solid 3px grey;
+padding:3px;
+text-decoration: underline;
+float:left;
+align:center;
+}
+body{
+margin:30px;
+background:#CEDDCE;
+border:solid 5px #271F27;
+}
+
+footer{
+clear:both;
+background:#271F27;
+padding:20px;
+font-variant: small-caps;
+text-align:left;
+color:white;
+font-size:110%
+}
+
+h2{
+font-variant: small-caps;
+text-decoration: underline;
+text-align:Center;
+font-size:300%;
+color: #3B3B52;
+}
+
+img{
+border: solid white 5px;
+}
