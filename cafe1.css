@@ -1,0 +1,75 @@
+header{
+background:#271F27;
+padding:20px;
+}
+
+nav{
+background:#CEDDCE;
+width:7%;
+padding:5px;
+text-align:center;
+}
+
+h1{
+font-family:"lucida console";
+font-variant: small-caps;
+text-align:left;
+color:white;
+font-size:400%;
+}
+
+h2{
+font-variant: small-caps;
+text-decoration: underline;
+text-align:left;
+color: #3B3B52;
+}
+
+h3{
+color: #3B3B52;
+}
+
+p{
+font-size: 115%;
+width:85%;
+text-align: justify;
+}
+
+.image{
+text-align:center
+}
+
+img{
+border: solid white 5px;
+}
+
+body{
+clear:both
+margin:30px;
+background:#CEDDCE;
+border:solid 5px #271F27;
+}
+
+
+footer{
+background:#271F27;
+padding:20px;
+font-variant: small-caps;
+text-align:left;
+color:white;
+font-size:110%
+}
+
+a:link{
+color:black;
+}
+a:visited{
+color:black;
+}
+
+a:link{
+color:black;
+}
+a:visited{
+color:black;
+}
